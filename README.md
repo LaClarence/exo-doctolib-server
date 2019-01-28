@@ -1,6 +1,15 @@
 # Le Reacteur - Exo Doctolib serveur
 
+## Prerequisites
+
+- npm must be available.
+- node.js must be installed.
+
 ## Quick Start
+
+```bash
+npm install
+```
 
 ## Service Web pour obtenir les disponibilités
 
